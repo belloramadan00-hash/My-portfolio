@@ -812,4 +812,5 @@ hr {
 @media (min-width: 641px) {
   .hamburger { display: none; }
   .nav-links { display: flex; }
+   hr { display: none; }
 }
